@@ -1,0 +1,6 @@
+[submodule "preprocess/WHAM"]
+	path = preprocess/WHAM
+	url = https://github.com/thechargedneutron/FIction-WHAM
+[submodule "preprocess/Detic"]
+	path = preprocess/Detic
+	url = https://github.com/thechargedneutron/FIction-Detic

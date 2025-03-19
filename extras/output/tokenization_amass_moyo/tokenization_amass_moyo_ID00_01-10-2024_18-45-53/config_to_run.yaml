@@ -1,0 +1,63 @@
+ARCH:
+  BETA: 1.0
+  CB_SCALE_DOWN: 2
+  CODE_DIM: 256
+  DEPTH: 2
+  DILATION_RATE: 3
+  DOWN_T: 1
+  MODEL_NAME: vanilla
+  NB_CODE: 2048
+  NB_JOINTS: 21
+  NUM_TOKENS: 10
+  N_DECODER_LAYERS: 2
+  N_ENCODER_LAYERS: 3
+  QUANTIZER: ema_reset
+  ROT_TYPE: rot6d
+  SMPL_TYPE: smplh
+  TOKEN_SIZE_DIV: 4
+  TOKEN_SIZE_MUL: 4
+  WIDTH: 512
+DATA:
+  ADD_NOISE: true
+  BATCH_SIZE: 256
+  DATASET: amass_pose
+  DATA_ROOT: tokenization_data
+  MASK_BODY_PARTS: false
+  NUM_WORKERS: 6
+  TESTLIST: Transitions_SSM
+  TRAINLIST: CMU_KIT_BMLrub_DanceDB_BMLmovi_EyesJapan_BMLhandball_TotalCapture_EKUT_ACCAD_TCDHands_MPI-Limits_MOYO
+  TRAIN_PART: 0.12_0.11_0.11_0.05_0.05_0.05_0.05_0.05_0.03_0.03_0.03_0.16_0.16
+  VALLIST: HumanEva_HDM05_SFU_MPI-Mosh_MOYO
+EXP:
+  DEBUG: false
+  EVAL_DS: test
+  EVAL_ITER: 2500
+  EVAL_ONLY: false
+  ID: tokenization_amass_moyo_ID00
+  LOG_TB: true
+  NAME: tokenization_amass_moyo
+  NUM_GPUS: 1
+  OUT_DIR: output/tokenization_amass_moyo/tokenization_amass_moyo_ID00_01-10-2024_18-45-53
+  PRINT_ITER: 100
+  RESUME_PTH: ''
+  RESUME_TRAINING: false
+  SEED: 123
+  TR_DISP_ITER: 1000
+  VAL_DISP_ITER: 50
+LOSS:
+  COMMIT_LOSS_WT: 1.0
+  JNT_LOSS: l2
+  JNT_LOSS_WT: 100.0
+  LOSS_WT: 1.0
+  MESH_LOSS: wt_l2
+  MESH_LOSS_WT: 100.0
+  ONLY_VALID_JNT: true
+  POSE_LOSS: l2
+  POSE_LOSS_WT: 20.0
+OPT:
+  GAMMA: 0.05
+  LR: 0.0002
+  LR_SCHEDULER: '75000_100000'
+  TOTAL_ITER: 200000
+  WARM_UP_ITER: 2
+  WEIGHT_DECAY: 1.0e-05

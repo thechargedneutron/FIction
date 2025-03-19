@@ -1,0 +1,509 @@
+{
+    "georgiatech_bike_06_8": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_06_8_aria05_214-1.pt"
+    ],
+    "georgiatech_bike_07_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_07_2_aria06_214-1.pt"
+    ],
+    "georgiatech_bike_06_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_06_2_aria05_214-1.pt"
+    ],
+    "georgiatech_bike_06_12": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_06_12_aria05_214-1.pt"
+    ],
+    "georgiatech_bike_07_6": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_07_6_aria06_214-1.pt"
+    ],
+    "georgiatech_bike_07_12": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_07_12_aria06_214-1.pt"
+    ],
+    "georgiatech_bike_06_6": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_06_6_aria05_214-1.pt"
+    ],
+    "georgiatech_bike_07_8": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_07_8_aria06_214-1.pt"
+    ],
+    "georgiatech_bike_14_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_14_2_aria04_214-1.pt"
+    ],
+    "georgiatech_bike_16_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_16_2_aria03_214-1.pt"
+    ],
+    "georgiatech_bike_14_12": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_14_12_aria04_214-1.pt"
+    ],
+    "georgiatech_bike_16_8": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_16_8_aria03_214-1.pt"
+    ],
+    "georgiatech_bike_14_6": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_14_6_aria04_214-1.pt"
+    ],
+    "georgiatech_bike_07_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_07_4_aria06_214-1.pt"
+    ],
+    "georgiatech_bike_15_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_15_4_aria02_214-1.pt"
+    ],
+    "georgiatech_bike_15_6": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_15_6_aria02_214-1.pt"
+    ],
+    "georgiatech_bike_15_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_15_2_aria02_214-1.pt"
+    ],
+    "georgiatech_bike_14_8": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_14_8_aria04_214-1.pt"
+    ],
+    "georgiatech_bike_16_10": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_16_10_aria03_214-1.pt"
+    ],
+    "georgiatech_bike_15_8": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_15_8_aria02_214-1.pt"
+    ],
+    "georgiatech_bike_06_10": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_06_10_aria05_214-1.pt"
+    ],
+    "georgiatech_bike_16_14": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_16_14_aria03_214-1.pt"
+    ],
+    "georgiatech_bike_16_6": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_16_6_aria03_214-1.pt"
+    ],
+    "georgiatech_bike_06_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_06_4_aria05_214-1.pt"
+    ],
+    "georgiatech_covid_18_8": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_18_8_aria02_214-1.pt"
+    ],
+    "georgiatech_covid_02_8": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_02_8_aria01_214-1.pt"
+    ],
+    "georgiatech_covid_02_14": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_02_14_aria01_214-1.pt"
+    ],
+    "georgiatech_bike_16_12": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_16_12_aria03_214-1.pt"
+    ],
+    "georgiatech_covid_18_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_18_4_aria02_214-1.pt"
+    ],
+    "georgiatech_covid_06_12": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_06_12_aria01_214-1.pt"
+    ],
+    "georgiatech_covid_02_6": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_02_6_aria01_214-1.pt"
+    ],
+    "georgiatech_covid_06_14": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_06_14_aria01_214-1.pt"
+    ],
+    "georgiatech_bike_07_10": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_07_10_aria06_214-1.pt"
+    ],
+    "georgiatech_covid_06_10": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_06_10_aria01_214-1.pt"
+    ],
+    "georgiatech_covid_18_6": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_18_6_aria02_214-1.pt"
+    ],
+    "georgiatech_covid_04_12": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_04_12_aria02_214-1.pt"
+    ],
+    "georgiatech_covid_04_10": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_04_10_aria02_214-1.pt"
+    ],
+    "georgiatech_covid_04_6": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_04_6_aria02_214-1.pt"
+    ],
+    "georgiatech_covid_04_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_04_4_aria02_214-1.pt"
+    ],
+    "iiith_cooking_120_6": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_120_6_aria01_214-1.pt"
+    ],
+    "iiith_cooking_125_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_125_4_aria01_214-1.pt"
+    ],
+    "georgiatech_covid_18_12": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_18_12_aria02_214-1.pt"
+    ],
+    "georgiatech_covid_06_8": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_06_8_aria01_214-1.pt"
+    ],
+    "georgiatech_covid_02_12": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_02_12_aria01_214-1.pt"
+    ],
+    "georgiatech_covid_06_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_06_4_aria01_214-1.pt"
+    ],
+    "georgiatech_bike_15_12": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_15_12_aria02_214-1.pt"
+    ],
+    "georgiatech_covid_18_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_18_2_aria02_214-1.pt"
+    ],
+    "georgiatech_bike_15_10": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_15_10_aria02_214-1.pt"
+    ],
+    "iiith_cooking_120_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_120_4_aria01_214-1.pt"
+    ],
+    "georgiatech_covid_02_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_02_2_aria01_214-1.pt"
+    ],
+    "georgiatech_covid_02_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_02_4_aria01_214-1.pt"
+    ],
+    "georgiatech_covid_06_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_06_2_aria01_214-1.pt"
+    ],
+    "indiana_bike_10_11": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_10_11_aria02_214-1.pt"
+    ],
+    "iiith_cooking_31_3": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_31_3_aria01_214-1.pt"
+    ],
+    "iiith_cooking_58_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_58_2_aria01_214-1.pt"
+    ],
+    "georgiatech_covid_02_10": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_02_10_aria01_214-1.pt"
+    ],
+    "iiith_cooking_58_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_58_4_aria01_214-1.pt"
+    ],
+    "iiith_cooking_60_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_60_2_aria01_214-1.pt"
+    ],
+    "georgiatech_covid_04_14": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_04_14_aria02_214-1.pt"
+    ],
+    "georgiatech_covid_04_8": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_04_8_aria02_214-1.pt"
+    ],
+    "georgiatech_covid_18_10": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_18_10_aria02_214-1.pt"
+    ],
+    "iiith_cooking_120_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_120_2_aria01_214-1.pt"
+    ],
+    "iiith_cooking_65_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_65_4_aria01_214-1.pt"
+    ],
+    "iiith_cooking_29_3": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_29_3_aria01_214-1.pt"
+    ],
+    "iiith_cooking_60_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_60_4_aria01_214-1.pt"
+    ],
+    "iiith_cooking_65_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_65_2_aria01_214-1.pt"
+    ],
+    "iiith_cooking_90_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_90_4_aria01_214-1.pt"
+    ],
+    "georgiatech_covid_04_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_covid_04_2_aria02_214-1.pt"
+    ],
+    "iiith_cooking_31_1": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_31_1_aria01_214-1.pt"
+    ],
+    "indiana_bike_09_7": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_09_7_aria01_214-1.pt"
+    ],
+    "indiana_bike_10_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_10_2_aria02_214-1.pt"
+    ],
+    "indiana_bike_09_8": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_09_8_aria01_214-1.pt"
+    ],
+    "iiith_cooking_89_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_89_4_aria01_214-1.pt"
+    ],
+    "indiana_bike_09_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_09_4_aria01_214-1.pt"
+    ],
+    "indiana_bike_09_12": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_09_12_aria01_214-1.pt"
+    ],
+    "indiana_bike_09_10": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_09_10_aria01_214-1.pt"
+    ],
+    "georgiatech_bike_14_10": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_bike_14_10_aria04_214-1.pt"
+    ],
+    "iiith_cooking_29_1": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_29_1_aria01_214-1.pt"
+    ],
+    "iiith_cooking_59_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_59_2_aria01_214-1.pt"
+    ],
+    "indiana_bike_10_8": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_10_8_aria02_214-1.pt"
+    ],
+    "indiana_bike_10_6": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_10_6_aria02_214-1.pt"
+    ],
+    "indiana_bike_10_14": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_10_14_aria02_214-1.pt"
+    ],
+    "iiith_cooking_125_3": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_125_3_aria01_214-1.pt"
+    ],
+    "indiana_bike_09_9": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_09_9_aria01_214-1.pt"
+    ],
+    "indiana_bike_10_12": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_10_12_aria02_214-1.pt"
+    ],
+    "iiith_cooking_126_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_126_2_aria01_214-1.pt"
+    ],
+    "iiith_cooking_32_1": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_32_1_aria01_214-1.pt"
+    ],
+    "indiana_bike_10_9": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_10_9_aria02_214-1.pt"
+    ],
+    "indiana_bike_10_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_10_4_aria02_214-1.pt"
+    ],
+    "iiith_cooking_30_1": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_30_1_aria01_214-1.pt"
+    ],
+    "indiana_bike_09_5": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_09_5_aria01_214-1.pt"
+    ],
+    "georgiatech_cooking_02_02_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_cooking_02_02_2_aria03_214-1.pt"
+    ],
+    "iiith_cooking_89_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_89_2_aria01_214-1.pt"
+    ],
+    "indiana_bike_10_7": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_10_7_aria02_214-1.pt"
+    ],
+    "iiith_cooking_125_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_125_2_aria01_214-1.pt"
+    ],
+    "iiith_cooking_55_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_55_2_aria01_214-1.pt"
+    ],
+    "indiana_bike_09_6": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_09_6_aria01_214-1.pt"
+    ],
+    "iiith_cooking_64_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_64_2_aria01_214-1.pt"
+    ],
+    "georgiatech_cooking_06_02_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_cooking_06_02_4_aria02_214-1.pt"
+    ],
+    "iiith_cooking_90_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_90_2_aria01_214-1.pt"
+    ],
+    "indiana_bike_09_13": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_09_13_aria01_214-1.pt"
+    ],
+    "iiith_cooking_145_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_145_2_aria01_214-1.pt"
+    ],
+    "nus_covidtest_12_1": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/nus_covidtest_12_1_aria01_214-1.pt"
+    ],
+    "georgiatech_cooking_02_01_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_cooking_02_01_2_aria02_214-1.pt"
+    ],
+    "nus_covidtest_14_1": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/nus_covidtest_14_1_aria02_214-1.pt"
+    ],
+    "nus_cpr_12_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/nus_cpr_12_2_aria02_214-1.pt"
+    ],
+    "nus_cpr_12_1": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/nus_cpr_12_1_aria02_214-1.pt"
+    ],
+    "nus_cpr_13_1": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/nus_cpr_13_1_aria02_214-1.pt"
+    ],
+    "nus_covidtest_33_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/nus_covidtest_33_2_aria01_214-1.pt"
+    ],
+    "nus_cpr_13_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/nus_cpr_13_2_aria02_214-1.pt"
+    ],
+    "georgiatech_cooking_06_03_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_cooking_06_03_2_aria03_214-1.pt"
+    ],
+    "nus_covidtest_14_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/nus_covidtest_14_2_aria02_214-1.pt"
+    ],
+    "nus_covidtest_33_3": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/nus_covidtest_33_3_aria01_214-1.pt"
+    ],
+    "nus_covidtest_12_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/nus_covidtest_12_2_aria01_214-1.pt"
+    ],
+    "nus_cpr_38_3": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/nus_cpr_38_3_aria01_214-1.pt"
+    ],
+    "nus_covidtest_52_1": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/nus_covidtest_52_1_aria02_214-1.pt"
+    ],
+    "nus_cpr_38_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/nus_cpr_38_2_aria01_214-1.pt"
+    ],
+    "indiana_bike_10_3": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_10_3_aria02_214-1.pt"
+    ],
+    "minnesota_cooking_060_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/minnesota_cooking_060_2_aria01_214-1.pt"
+    ],
+    "indiana_cooking_08_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_cooking_08_2_aria01_214-1.pt"
+    ],
+    "nus_covidtest_51_1": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/nus_covidtest_51_1_aria01_214-1.pt"
+    ],
+    "sfu_covid_008_16": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/sfu_covid_008_16_aria01_214-1.pt"
+    ],
+    "sfu_covid_006_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/sfu_covid_006_4_aria01_214-1.pt"
+    ],
+    "utokyo_cpr_2005_30_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/utokyo_cpr_2005_30_2_aria01_214-1.pt"
+    ],
+    "utokyo_cpr_2005_29_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/utokyo_cpr_2005_29_2_aria01_214-1.pt"
+    ],
+    "minnesota_cooking_061_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/minnesota_cooking_061_2_aria02_214-1.pt"
+    ],
+    "sfu_covid_008_12": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/sfu_covid_008_12_aria01_214-1.pt"
+    ],
+    "sfu_cooking_010_3": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/sfu_cooking_010_3_aria01_214-1.pt"
+    ],
+    "sfu_cooking_008_5": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/sfu_cooking_008_5_aria01_214-1.pt"
+    ],
+    "sfu_covid_008_10": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/sfu_covid_008_10_aria01_214-1.pt"
+    ],
+    "sfu_covid_006_6": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/sfu_covid_006_6_aria01_214-1.pt"
+    ],
+    "utokyo_cpr_2005_32_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/utokyo_cpr_2005_32_4_aria01_214-1.pt"
+    ],
+    "utokyo_pcr_2001_30_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/utokyo_pcr_2001_30_4_aria01_214-1.pt"
+    ],
+    "utokyo_pcr_2001_30_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/utokyo_pcr_2001_30_2_aria01_214-1.pt"
+    ],
+    "upenn_0702_Cooking_1_5": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/upenn_0702_Cooking_1_5_aria01_214-1.pt"
+    ],
+    "uniandes_cooking_001_8": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/uniandes_cooking_001_8_aria01_214-1.pt"
+    ],
+    "sfu_covid_004_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/sfu_covid_004_2_aria01_214-1.pt"
+    ],
+    "utokyo_pcr_2001_29_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/utokyo_pcr_2001_29_4_aria01_214-1.pt"
+    ],
+    "sfu_cooking_007_7": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/sfu_cooking_007_7_aria01_214-1.pt"
+    ],
+    "upenn_0711_Cooking_6_5": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/upenn_0711_Cooking_6_5_aria01_214-1.pt"
+    ],
+    "sfu_cooking_010_5": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/sfu_cooking_010_5_aria01_214-1.pt"
+    ],
+    "utokyo_pcr_2001_29_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/utokyo_pcr_2001_29_2_aria01_214-1.pt"
+    ],
+    "upenn_0711_Cooking_6_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/upenn_0711_Cooking_6_4_aria01_214-1.pt"
+    ],
+    "uniandes_cooking_008_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/uniandes_cooking_008_2_aria01_214-1.pt"
+    ],
+    "utokyo_pcr_2001_29_6": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/utokyo_pcr_2001_29_6_aria01_214-1.pt"
+    ],
+    "upenn_0702_Cooking_1_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/upenn_0702_Cooking_1_4_aria01_214-1.pt"
+    ],
+    "upenn_0711_Cooking_2_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/upenn_0711_Cooking_2_4_aria01_214-1.pt"
+    ],
+    "indiana_cooking_23_5": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_cooking_23_5_aria02_214-1.pt"
+    ],
+    "utokyo_pcr_2001_32_6": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/utokyo_pcr_2001_32_6_aria01_214-1.pt"
+    ],
+    "upenn_0711_Cooking_2_3": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/upenn_0711_Cooking_2_3_aria01_214-1.pt"
+    ],
+    "upenn_0711_Cooking_3_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/upenn_0711_Cooking_3_4_aria01_214-1.pt"
+    ],
+    "uniandes_cooking_004_8": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/uniandes_cooking_004_8_aria01_214-1.pt"
+    ],
+    "upenn_0711_Cooking_6_3": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/upenn_0711_Cooking_6_3_aria01_214-1.pt"
+    ],
+    "sfu_cooking_010_1": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/sfu_cooking_010_1_aria01_214-1.pt"
+    ],
+    "upenn_0711_Cooking_3_5": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/upenn_0711_Cooking_3_5_aria01_214-1.pt"
+    ],
+    "uniandes_cooking_001_5": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/uniandes_cooking_001_5_aria01_214-1.pt"
+    ],
+    "upenn_0711_Cooking_2_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/upenn_0711_Cooking_2_2_aria01_214-1.pt"
+    ],
+    "uniandes_cooking_007_8": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/uniandes_cooking_007_8_aria01_214-1.pt"
+    ],
+    "upenn_0702_Cooking_1_3": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/upenn_0702_Cooking_1_3_aria01_214-1.pt"
+    ],
+    "utokyo_omelet_11_1001_4": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/utokyo_omelet_11_1001_4_aria01_214-1.pt"
+    ],
+    "sfu_cooking_007_3": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/sfu_cooking_007_3_aria01_214-1.pt"
+    ],
+    "upenn_0711_Cooking_1_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/upenn_0711_Cooking_1_2_aria01_214-1.pt"
+    ],
+    "upenn_0711_Cooking_3_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/upenn_0711_Cooking_3_2_aria01_214-1.pt"
+    ],
+    "indiana_cooking_23_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_cooking_23_2_aria02_214-1.pt"
+    ],
+    "upenn_0702_Cooking_1_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/upenn_0702_Cooking_1_2_aria01_214-1.pt"
+    ],
+    "iiith_cooking_137_2": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/iiith_cooking_137_2_aria01_214-1.pt"
+    ],
+    "indiana_bike_10_13": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_bike_10_13_aria02_214-1.pt"
+    ],
+    "georgiatech_cooking_02_02_6": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/georgiatech_cooking_02_02_6_aria03_214-1.pt"
+    ],
+    "indiana_cooking_16_3": [
+        "/private/home/arjunrs1/egoexo4d_features/checkpoint/yalesong/EgoExo4D_EgoVLPv2_arxivC/extracted_features_egovlp2/EgoVLPv2_Pretraining_bs512-lr3e_5-Ep20/indiana_cooking_16_3_aria02_214-1.pt"
+    ]
+}
